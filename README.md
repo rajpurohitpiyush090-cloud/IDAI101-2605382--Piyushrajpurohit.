@@ -7,7 +7,7 @@ ParentConnect AI aims to solve this problem by providing parents with a simple, 
 The chatbot is developed using Google Dialogflow, which allows it to understand different ways of asking the same question through intents, entities, parameters, and conversational responses.
 
 🎯 Project Objective
-The main objective of ParentConnect AI is to create an efficient communication bridge between parents and the school.
+The main objective of ParentConnect AI is to create an efficient communication bridge between parents and the school. 
 The chatbot is designed to:
 
 Provide quick access to school information.
